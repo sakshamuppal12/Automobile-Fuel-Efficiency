@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.sparkStaging/
+metastore_db/
+derby.log
+.DS_Store

@@ -1,0 +1,187 @@
+engine_displacement,no_cylinders,no_gears,transmission_desc,drive_desc,class,fuel_usage_desc,comb_mpg,prediction
+1.2,3,1,Continuously Variable,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),39,34.858952505626426
+1.2,3,5,Manual,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),36,33.9870398481085
+1.3,3,1,Continuously Variable,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),31,31.015540644540643
+1.3,4,9,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),26,25.680886694666064
+1.4,4,6,Manual,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),33,33.107439132060414
+1.4,4,6,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),27,27.696021924274547
+1.4,4,8,Semi-Automatic,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),32,31.94404553981938
+1.5,3,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Front",Minicompact Cars,Gasoline (Premium Unleaded Recommended),31,30.295183934343367
+1.5,3,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),27,28.164107691975587
+1.5,4,1,Continuously Variable,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),48,35.65533553850055
+1.5,4,1,Continuously Variable,"2-Wheel Drive, Front",Large Cars,Gasoline (Regular Unleaded Recommended),33,37.02166570540966
+1.5,4,1,Continuously Variable,"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),32,37.32291854072365
+1.5,4,1,Continuously Variable,"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),52,37.32291854072365
+1.5,4,6,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),27,26.42242544460162
+1.5,4,9,Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),27,27.527634422277075
+1.6,4,5,Manual,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),30,32.82464479234216
+1.6,4,6,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Front",Small Station Wagons,Gasoline (Regular Unleaded Recommended),50,44.43629002430318
+1.8,4,1,Continuously Variable,"2-Wheel Drive, Front",Small Station Wagons,Gasoline (Regular Unleaded Recommended),30,37.3025801934134
+2.0,4,1,Continuously Variable,"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),33,33.34818220754993
+2.0,4,1,Continuously Variable,"2-Wheel Drive, Front",Special Purpose Vehicle 2WD,Gasoline (Regular Unleaded Recommended),25,34.19374192122806
+2.0,4,1,Continuously Variable,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),38,30.07129359132515
+2.0,4,1,Selectable Continuously Variable (e.g. CVT with paddles),"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),35,36.35451265594309
+2.0,4,6,Manual,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),31,28.769938134909953
+2.0,4,6,Manual,"2-Wheel Drive, Front",Compact Cars,Gasoline (Regular Unleaded Recommended),32,28.769938134909953
+2.0,4,6,Selectable Continuously Variable (e.g. CVT with paddles),4-Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),26,28.146401079965784
+2.0,4,6,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),25,26.04548741573733
+2.0,4,6,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Required),24,24.049627360925168
+2.0,4,6,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),25,24.406240749174227
+2.0,4,7,Automated Manual,"2-Wheel Drive, Front",Subcompact Cars,Gasoline (Premium Unleaded Required),29,27.814721768599135
+2.0,4,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Rear",Two Seaters,Gasoline (Premium Unleaded Required),23,23.998764673740038
+2.0,4,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),26,26.687273634511
+2.0,4,7,Selectable Continuously Variable (e.g. CVT with paddles),All Wheel Drive,Midsize Cars,Gasoline (Regular Unleaded Recommended),32,30.13911108910247
+2.0,4,8,Automated Manual,4-Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Required),26,24.553975466362044
+2.0,4,8,Automatic,"2-Wheel Drive, Rear",Small SUV 2WD,Gasoline (Premium Unleaded Recommended),25,24.86663934107077
+2.0,4,8,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),22,24.145001277584733
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Front",Midsize Station Wagons,Gasoline (Premium Unleaded Required),26,26.049190702489433
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Front",Standard SUV 2WD,Gasoline (Premium Unleaded Required),25,25.99888983668857
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Rear",Compact Cars,Gasoline (Premium Unleaded Recommended),27,26.265911542054575
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Rear",Midsize Cars,Gasoline (Premium Unleaded Recommended),25,26.4634569009926
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Rear",Small SUV 2WD,Gasoline (Premium Unleaded Recommended),27,25.26656814590578
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Recommended),28,25.968163213122445
+2.0,4,8,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),25,24.83304063506213
+2.0,4,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),26,25.91552752648043
+2.0,4,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),27,25.91552752648043
+2.0,4,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Required),25,25.266513146756516
+2.0,4,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),25,24.44557452681616
+2.0,4,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Required),24,24.20497431338195
+2.0,4,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),22,22.75947569490143
+2.0,4,8,Semi-Automatic,All Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Recommended),24,25.403270573188593
+2.0,4,9,Automatic,"2-Wheel Drive, Rear",Small SUV 4WD,Gasoline (Premium Unleaded Required),22,23.804166644276435
+2.0,4,9,Automatic,4-Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Required),26,24.699149489066855
+2.0,4,9,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),24,23.98541143977527
+2.0,4,9,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Premium Unleaded Required),24,24.30178883440509
+2.0,4,9,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),23,23.192202170886812
+2.0,4,10,Semi-Automatic,All Wheel Drive,Compact Cars,Gasoline (Premium Unleaded Recommended),24,24.55955937211049
+2.3,4,6,Manual,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Regular Unleaded Recommended),24,23.55504599562362
+2.3,4,10,Semi-Automatic,"2-Wheel Drive, Rear",Special Purpose Vehicle 2WD,Gasoline (Regular Unleaded Recommended),18,23.05453705050249
+2.4,4,6,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),26,26.070660077870517
+2.4,4,9,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),25,24.058170159503817
+2.5,4,1,Continuously Variable,Part-time 4-Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),40,34.475949781277876
+2.5,4,6,Selectable Continuously Variable (e.g. CVT with paddles),"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),44,42.323233002291815
+2.5,4,6,Selectable Continuously Variable (e.g. CVT with paddles),"2-Wheel Drive, Front",Midsize Cars,Gasoline (Regular Unleaded Recommended),44,42.323233002291815
+2.5,4,6,Selectable Continuously Variable (e.g. CVT with paddles),All Wheel Drive,"Special Purpose Vehicle, minivan 4WD",Gasoline (Regular Unleaded Recommended),35,34.80604229805282
+2.5,4,6,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),24,26.54625932907059
+2.5,4,6,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),28,26.54625932907059
+2.5,4,6,Semi-Automatic,"2-Wheel Drive, Front",Special Purpose Vehicle 2WD,Gasoline (Regular Unleaded Recommended),22,24.578109461637936
+2.5,4,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Rear",Two Seaters,Gasoline (Premium Unleaded Required),22,23.305552465669898
+2.5,4,8,Selectable Continuously Variable (e.g. CVT with paddles),"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),29,30.500678728615725
+2.5,4,8,Selectable Continuously Variable (e.g. CVT with paddles),All Wheel Drive,Large Cars,Gasoline (Regular Unleaded Recommended),30,28.587541458541455
+2.5,4,8,Selectable Continuously Variable (e.g. CVT with paddles),All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),29,29.192227496188014
+2.5,4,8,Semi-Automatic,"2-Wheel Drive, Front",Large Cars,Gasoline (Regular Unleaded Recommended),32,28.437688540680462
+2.5,4,8,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),30,26.186860343464737
+2.5,4,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Regular Unleaded Recommended),28,27.53545498139835
+2.5,4,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),28,25.30774309187835
+2.7,4,6,Semi-Automatic,"2-Wheel Drive, Rear",Small Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),21,22.29774712118849
+2.7,4,6,Semi-Automatic,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),20,22.024790703990273
+2.7,4,8,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),21,21.368813147031442
+2.7,4,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),20,20.168739058299437
+2.7,4,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),20,20.168739058299437
+2.7,4,10,Semi-Automatic,"2-Wheel Drive, Rear",Compact Cars,Gasoline (Premium Unleaded Required),25,23.12773489679952
+2.7,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),21,21.011142362844826
+2.7,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),21,21.011142362844826
+2.9,6,8,Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),19,20.48566734597416
+3.0,6,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Recommended),19,21.94646082382108
+3.0,6,7,Manual,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Required),21,20.363180284955952
+3.0,6,7,Manual,All Wheel Drive,Minicompact Cars,Gasoline (Premium Unleaded Required),20,20.245253445235992
+3.0,6,8,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Minicompact Cars,Gasoline (Premium Unleaded Required),20,20.021735434393726
+3.0,6,8,Automatic,"2-Wheel Drive, Rear",Large Cars,Gasoline (Premium Unleaded Required),19,21.480616864536795
+3.0,6,8,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",26,24.649919846786382
+3.0,6,8,Automatic,4-Wheel Drive,Small SUV 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",23,23.631436744037998
+3.0,6,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",24,23.511357703392864
+3.0,6,8,Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),18,20.251666438399198
+3.0,6,8,Semi-Automatic,"2-Wheel Drive, Rear",Compact Cars,Gasoline (Premium Unleaded Recommended),19,22.794307554019507
+3.0,6,8,Semi-Automatic,"2-Wheel Drive, Rear",Large Cars,Gasoline (Premium Unleaded Recommended),25,21.868582169887738
+3.0,6,8,Semi-Automatic,"2-Wheel Drive, Rear",Standard SUV 2WD,Gasoline (Premium Unleaded Recommended),23,21.881475808337214
+3.0,6,8,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Recommended),26,22.781443027878876
+3.0,6,8,Semi-Automatic,4-Wheel Drive,Standard SUV 4WD,"Diesel, ultra low sulfur (15 ppm, maximum)",24,22.792244050127188
+3.0,6,8,Semi-Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),21,20.909347999850898
+3.0,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),16,20.339990521454464
+3.0,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),20,20.339990521454464
+3.0,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Recommended),23,20.339990521454464
+3.0,6,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),20,20.863598318239088
+3.0,6,8,Semi-Automatic,All Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Recommended),23,22.54766445205657
+3.0,6,8,Semi-Automatic,All Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Recommended),24,22.54766445205657
+3.0,6,8,Semi-Automatic,All Wheel Drive,Two Seaters,Gasoline (Premium Unleaded Recommended),21,21.46912910447444
+3.0,6,9,Automatic,4-Wheel Drive,Compact Cars,Gasoline (Premium Unleaded Required),21,22.656751109658217
+3.0,6,9,Automatic,4-Wheel Drive,Midsize Station Wagons,Gasoline (Premium Unleaded Required),24,21.818144057367707
+3.0,6,9,Automatic,4-Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Required),25,22.655060702930932
+3.0,6,9,Automatic,4-Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Required),25,22.655060702930932
+3.0,6,10,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,"Diesel, ultra low sulfur (15 ppm, maximum)",27,24.579220379006912
+3.0,6,10,Semi-Automatic,Part-time 4-Wheel Drive,Standard SUV 4WD,Gasoline (Regular Unleaded Recommended),20,21.085505734933257
+3.2,6,9,Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),23,21.896802692906366
+3.3,6,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),20,22.197085335482576
+3.3,6,10,Semi-Automatic,Part-time 4-Wheel Drive,Standard SUV 4WD,Gasoline (Regular Unleaded Recommended),19,21.37333553730416
+3.5,6,6,Manual,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Recommended),20,20.156716998485386
+3.5,6,6,Manual,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),18,19.27348235321849
+3.5,6,6,Semi-Automatic,All Wheel Drive,Compact Cars,Gasoline (Premium Unleaded Required),22,21.45090457999853
+3.5,6,7,Selectable Continuously Variable (e.g. CVT with paddles),"2-Wheel Drive, Front",Midsize Station Wagons,Gasoline (Regular Unleaded Recommended),23,25.047162979042646
+3.5,6,8,Semi-Automatic,"2-Wheel Drive, Front",Small SUV 2WD,Gasoline (Regular Unleaded Recommended),23,22.060625561654884
+3.5,6,8,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),23,22.274587504852196
+3.5,6,8,Semi-Automatic,All Wheel Drive,Small SUV 4WD,Gasoline (Regular Unleaded Recommended),21,21.03233795741812
+3.5,6,9,Semi-Automatic,"2-Wheel Drive, Front",Small Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),22,21.909191322624327
+3.5,6,10,Semi-Automatic,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",Gasoline (Regular Unleaded Recommended),22,21.850926511150565
+3.5,6,10,Semi-Automatic,Part-time 4-Wheel Drive,Standard SUV 4WD,Gasoline (Regular Unleaded Recommended),19,19.953176799120374
+3.6,6,8,Automatic,"2-Wheel Drive, Rear",Midsize Cars,Gasoline (Regular Unleaded Recommended),23,21.6082812430732
+3.6,6,8,Automatic,4-Wheel Drive,Small Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),17,20.650129196515515
+3.6,6,8,Automatic,4-Wheel Drive,Small Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),19,20.650129196515515
+3.6,6,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),19,20.657943354558892
+3.6,6,8,Automatic,All Wheel Drive,Large Cars,Gasoline (Regular Unleaded Recommended),21,20.946022552857794
+3.6,6,8,Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Regular Unleaded Recommended),21,20.613694923305758
+3.6,6,9,Automatic,"2-Wheel Drive, Front",Standard SUV 2WD,Gasoline (Regular Unleaded Recommended),21,21.523421337168838
+3.7,6,8,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Minicompact Cars,Gasoline (Premium Unleaded Required),17,17.724572883352565
+3.8,6,9,Semi-Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),20,19.90876874211033
+3.8,8,8,Automatic,"2-Wheel Drive, Rear",Large Cars,Gasoline (Premium Unleaded Required),16,17.74797507446611
+3.9,8,7,Automated Manual,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Required),18,16.65253024476479
+3.9,8,8,Automated Manual,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Required),19,17.741064554228895
+3.9,8,8,Automated Manual,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),19,18.100140608793275
+4.0,6,6,Manual,"2-Wheel Drive, Rear",Two Seaters,Gasoline (Premium Unleaded Recommended),19,19.132192150420465
+4.0,8,8,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Large Cars,Gasoline (Premium Unleaded Required),17,17.345690097884646
+4.0,8,8,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Large Cars,Gasoline (Premium Unleaded Required),17,17.345690097884646
+4.0,8,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),15,16.42836325332673
+4.0,8,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),18,16.42836325332673
+4.0,8,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),17,16.770582828607793
+4.0,8,9,Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),20,19.384548873529234
+4.0,8,9,Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),20,19.384548873529234
+4.0,8,9,Automatic,4-Wheel Drive,Compact Cars,Gasoline (Premium Unleaded Required),20,18.369341199514828
+4.0,8,9,Automatic,4-Wheel Drive,Small SUV 4WD,Gasoline (Premium Unleaded Required),17,17.443704675829455
+4.0,8,9,Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),16,16.86022471500425
+4.3,6,6,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),16,17.00209660227078
+4.4,8,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Recommended),19,17.673237375870656
+4.4,8,8,Semi-Automatic,All Wheel Drive,Midsize Cars,Gasoline (Premium Unleaded Required),17,17.62737584257754
+4.4,8,8,Semi-Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),17,16.422903157866635
+4.4,8,8,Semi-Automatic,All Wheel Drive,Subcompact Cars,Gasoline (Premium Unleaded Recommended),17,18.318446195768107
+5.0,8,8,Semi-Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),16,16.93563069857216
+5.0,8,10,Semi-Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),20,18.092418846243984
+5.2,10,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),"2-Wheel Drive, Rear",Two Seaters,Gasoline (Premium Unleaded Required),17,15.789263822908845
+5.2,12,8,Semi-Automatic,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Recommended),17,15.361054170097425
+5.2,12,8,Semi-Automatic,"2-Wheel Drive, Rear",Minicompact Cars,Gasoline (Premium Unleaded Recommended),18,15.361054170097425
+5.3,8,6,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),16,16.328934593965037
+5.3,8,6,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),16,16.173616237383516
+5.3,8,6,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),16,16.173616237383516
+5.3,8,8,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),19,17.055866797852467
+5.3,8,8,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),19,17.055866797852467
+5.3,8,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),16,17.01274844103076
+5.3,8,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),18,17.01274844103076
+5.3,8,10,Automatic,"2-Wheel Drive, Rear",Standard SUV 2WD,Gasoline (Regular Unleaded Recommended),18,17.6064971801473
+5.3,8,10,Automatic,"2-Wheel Drive, Rear",Standard SUV 2WD,Gasoline (Regular Unleaded Recommended),18,17.6064971801473
+5.3,8,10,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Regular Unleaded Recommended),18,17.81493565207368
+5.6,8,7,Semi-Automatic,"2-Wheel Drive, Rear",Standard SUV 2WD,Gasoline (Premium Unleaded Recommended),16,16.212980903254355
+5.6,8,7,Semi-Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),15,15.250205552325351
+5.6,8,9,Semi-Automatic,Part-time 4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Premium Unleaded Recommended),17,17.35411590783201
+5.7,8,6,Semi-Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Regular Unleaded Recommended),15,15.776196702547402
+5.7,8,8,Automatic,"2-Wheel Drive, Rear",Standard Pick-up Trucks 2WD,Gasoline (Mid Grade Unleaded Recommended),19,17.48957754298583
+5.7,8,8,Automatic,4-Wheel Drive,Standard Pick-up Trucks 4WD,Gasoline (Mid Grade Unleaded Recommended),17,17.31725003018202
+5.7,8,8,Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Mid Grade Unleaded Recommended),17,16.681031661179187
+6.2,8,6,Manual,"2-Wheel Drive, Rear",Midsize Cars,Gasoline (Premium Unleaded Recommended),16,16.65641395175709
+6.2,8,8,Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),13,15.397817579749404
+6.2,8,8,Automatic,All Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Recommended),13,15.397817579749404
+6.2,8,10,Automatic,"2-Wheel Drive, Rear",Standard SUV 2WD,Gasoline (Premium Unleaded Required),17,16.943575220411645
+6.2,8,10,Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),16,16.353311619640934
+6.2,8,10,Automatic,4-Wheel Drive,Standard SUV 4WD,Gasoline (Premium Unleaded Required),16,16.353311619640934
+6.2,8,10,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),16,17.639580492310007
+6.2,8,10,Semi-Automatic,"2-Wheel Drive, Rear",Subcompact Cars,Gasoline (Premium Unleaded Required),20,17.639580492310007
+6.4,8,8,Automatic,"2-Wheel Drive, Rear",Large Cars,Gasoline (Premium Unleaded Recommended),18,16.70690853614649
+6.6,12,8,Semi-Automatic,All Wheel Drive,Large Cars,Gasoline (Premium Unleaded Recommended),16,14.054407514450867
+8.0,16,7,Automated Manual- Selectable (e.g. Automated Manual with paddles),All Wheel Drive,Two Seaters,Gasoline (Premium Unleaded Required),11,10.22538528138528
